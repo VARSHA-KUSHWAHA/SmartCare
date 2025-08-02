@@ -2,8 +2,8 @@
   
   "routes": [
     {
-      "src": "/(.package.json)",
-      "dest": "/index.html"
+      "src": "package.json",
+      "dest": "index.html"
     }
   ]
 }
